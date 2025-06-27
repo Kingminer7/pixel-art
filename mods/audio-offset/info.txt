@@ -1,0 +1,4 @@
+L 5f20a9
+R c6b351
+
+This logo used 36x36 instead of 32x32.
